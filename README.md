@@ -1,16 +1,17 @@
-## Hi there 👋
-
 <!--
 **CadeGarcia/CadeGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+💬  **About Me**
+
+I am an undergraduate Data Science student at Chaminade University of Honolulu studying for a career in cyber security. As a kinesthetic learner, I am very steadfast on improving my coding skills even if it means through trial and error. 
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+<div align="center">"The only thing holding you back is your own internal fears" - My mother</div>
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+📥  **Reach me at**
+
+cade.garcia@student.chaminade.edu
+c.garcia21@icloud.com
