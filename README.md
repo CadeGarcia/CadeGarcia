@@ -7,8 +7,9 @@
 ---
 ### 💬 About Me
 
-I am an undergraduate Data Science student at Chaminade University of Honolulu studying for a career in cyber security or data analytics. As a kinesthetic learner, I am very steadfast on improving my coding skills even if it means through trial and error. 
+I am an undergraduate student at Chaminade University of Honolulu majoring in Data Science Analytics and Visualization. I'm searching for a career in cyber security or data analytics. I am very steadfast on improving my coding skills and i'd love to learn more about how to apply my knowledge to helping improve my community! 
 
+##### Expand to view
 <details>
   <summary><b>💻 Languages</b></summary>
 <br/>
@@ -20,9 +21,28 @@ I am an undergraduate Data Science student at Chaminade University of Honolulu s
 </details>
 
 <details>
-  <summary><b>Reach me at</b></summary>
+  <summary><b>❓ Who I am</b></summary>
 <br/>
 
-- cade.garcia@student.chaminade.edu
-- c.garcia21@icloud.com
+ ```Python
+ class WhoIam:
+ 	user = 'Cade Garcia'
+		current_work = 'Writing code'
+		hobbies = [
+				'Lifting',
+				'Watching Anime',
+				'Video games'
+				'Exploring some niche internet topic'
+			]
+	
+	def getLocation():
+		return Oahu_Hawaii()
+	
+	def Ambitions():
+		LearnRasberryPi()
+		CatchFish()
+         LearnASL()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 </details>
