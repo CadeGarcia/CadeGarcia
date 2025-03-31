@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">"The only thing holding you back is your own internal fears" - My mother</div>
+<div align="center">"Iron is sharpened by iron" - Proverbs 27:17</div>
 
 ---
 ### 💬 About Me
