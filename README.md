@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">"Iron is sharpened by iron" - Proverbs 27:17</div>
+<div align="center">"As iron sharpens iron, so one person sharpens another" - Proverbs 27:17</div>
 
 ---
 ### 💬 About Me
