@@ -1,13 +1,13 @@
 [![Support my caffeine addiction!](https://img.shields.io/badge/Support_my_caffeine_addiction!-5f4842)](https://venmo.com/cuh-ade)
 
----
 
-<div align="center">"As iron sharpens iron, so one person sharpens another" - Proverbs 27:17</div>
+<div align="center">
+---------------------------------------------------------------------  <b><i>Easy come, easy go</i></b> ------------------------------------------------------------------
+</div>
 
----
 ### 💬 About Me
 
-I am an undergraduate student at Chaminade University of Honolulu majoring in Data Science Analytics and Visualization. I'm pursuing a career in cyber security or data analytics. Through my academic journey, I have gained strong analytical skills, experience in machine learning and model building/ analysis, as well as learned to program in R, Python, and SQL.
+I am a graduate of Chaminade University of Honolulu with a bachelors in Data Science Analytics and Visualization. I'm pursuing a career in cyber security or data analytics. Through my academic journey, I’ve developed strong analytical skills, gained hands-on experience in machine learning and model development, and built proficiency in programming with R, Python, and SQL.
 
 ##### Expand to view
 <details>
@@ -29,9 +29,6 @@ who_i_am <- list(
   current_work = "Writing code",
   location = function() {
     return("Oahu")
-  },
-  ambitions = function() {
-    return(c("Build something with Raspberry Pi", "Catch boars", "Learn ASL"))
   }
 )	
  ```
